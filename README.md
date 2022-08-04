@@ -1,2 +1,9 @@
 # 0x00. AirBnB clone - The console
-group tasks
+AirBnb is a......
+
+## To be edited
+
+## Authors
+
+* Nancy Lwambi
+* Kennedy Simiyu
