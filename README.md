@@ -5,5 +5,5 @@ AirBnb is a......
 
 ## Authors
 
-* Nancy Lwambi
-* Kennedy Simiyu
+* Nancy Lwambi <nancylwamb@gmail.com>
+* Simiyu Kennedy <kens191700@gmail.com>
